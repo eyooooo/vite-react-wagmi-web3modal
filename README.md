@@ -6,4 +6,6 @@ includes:
  wagmi
  web3modal
  react
+ vite
  styled-components
+ 
